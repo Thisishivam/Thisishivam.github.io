@@ -86,7 +86,7 @@ function waitAndResponce(inputText) {
             break;
 
         case "education":
-            sendTextMessage("I am a recent graduate in Computer Science from R.Y.K cience college Nashik,Maharashtra,India<br>GPA : 7.92<br><br>I have completed my Higher Secondary form K.T.H.M college Nashik,Maharashtra,India<br>GPA: 7.00<br>");
+            sendTextMessage("I am a recent graduate in Computer Science from R.Y.K Science college Nashik,Maharashtra,India<br>GPA : 7.92<br><br>I have completed my Higher Secondary form K.T.H.M college Nashik,Maharashtra,India<br>GPA: 7.00<br>");
             break;
 
         case "address":
